@@ -1,6 +1,6 @@
 # Desafio Digital Innovation One
 
-# Tema: Java e Kubernetes
+# Tema: Gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot
 
 O projeto foi apresentando pelo professor  Kamila Santos.
 
