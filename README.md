@@ -1,7 +1,7 @@
 # Desafio Digital Innovation One
 
-# Tema: Sistema de orçamenta  utilizando CQRS, Quarkus, Kafka e deploy no EKS
+# Tema: Gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot
 
-O projeto foi apresentando pelo professor Wesley Fuchter .
+O projeto foi apresentando pelo professora  Kamila Santos.
 
 Todas as configurações necessárias para executar este projeto estão no arquivo config.
